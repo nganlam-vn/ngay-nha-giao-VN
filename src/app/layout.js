@@ -4,8 +4,8 @@ import "./globals.css";
 const font = Ubuntu({ subsets: ["latin"], weight: "400" });
 
 export const metadata = {
-  title: "A little gift",
-  description: "Make with love for you | by toan10bits",
+  title: "For our beloved teachers",
+  description: "A simple website to show our appreciation for our teachers",
 };
 
 export default function RootLayout({ children }) {

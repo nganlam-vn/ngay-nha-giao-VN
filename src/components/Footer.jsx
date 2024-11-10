@@ -4,9 +4,9 @@ const Footer = () => {
   return (
     <footer className="footer flex items-center justify-center p-10 bg-white text-gray-500">
       <aside>
-        <p className="text-sm">Made with love and coffee by toantc 🐱‍👓</p>
+        <p className="text-sm"></p>
         <span className="italic font-bold text-center text-sm w-full">
-          Note: Em xin lỗi a vì hông nhắn xin hình anhh 🎈
+          Sinh viên chúc mừng ngày nhà giáo Việt Nam! 🎉
         </span>
       </aside>
     </footer>
